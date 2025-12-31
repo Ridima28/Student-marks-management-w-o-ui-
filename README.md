@@ -1,0 +1,1 @@
+This is a basic student marks management system without any UI.
